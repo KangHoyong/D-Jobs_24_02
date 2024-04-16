@@ -20,13 +20,13 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
        - 예외처리 
        - Numpy, Pickle
 
-[Quiz03 정답]()
+[Quiz03 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz03.py)
 
-[Quiz04 정답]()
+[Quiz04 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz04.py)
 
-[Quiz05 정답]()
+[Quiz05 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz05.py)
     
-## 3. [강의자료-3 링크]()
+## 3. [강의자료-3 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C-3.pdf)
     
     강의 내용 
         - Matplotlib 라이브러리 소개 및 실습 
