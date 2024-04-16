@@ -19,6 +19,20 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
        - 함수 및 클래스 소개 
        - 예외처리 
        - Numpy, Pickle
+
+[Quiz03 정답]()
+
+[Quiz04 정답]()
+
+[Quiz05 정답]()
     
+## 3. [강의자료-3 링크]()
+    
+    강의 내용 
+        - Matplotlib 라이브러리 소개 및 실습 
+        > 설치 명령어 pip install matplotlib
+        - Open CV 라이브러리 소개 및 실습 
+        > 설치 명령어 pip install opencv-python==4.8.0.74
+        
 
 
