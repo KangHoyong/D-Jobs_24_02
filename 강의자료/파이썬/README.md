@@ -53,4 +53,4 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
   
 - 파일 입출력 
 
-    1) [샘플 텍스트 파일 다운로드 링크]()
+    1) [샘플 텍스트 파일 다운로드 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%ED%8C%8C%EC%9D%BC/sample_txt.txt)
