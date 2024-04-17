@@ -34,5 +34,23 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
         - Open CV 라이브러리 소개 및 실습 
         > 설치 명령어 pip install opencv-python==4.8.0.74
         
+## 4. [강의자료-4 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C-4.pdf)
 
+강의 내용 
+- 파일 리스트 
+    
+    특정 디렉토리 파일 가져오기 위한 샘플 데이터 
 
+    다운로드 기간 : 4월 18일 ~ 4월 19일 
+
+     1) [다운로드 1번](https://infinyx3.synology.me:5001/sharing/9YoEox6Xl)
+     2) [위에 다운로드1번이 안되면 다운로드2번]( 
+     https://drive.google.com/file/d/1PpuU4kfV-hv5SxbBrI58H2W-Nftpt5-j/view?usp=drive_link)
+
+    수업에 필요한 라이브러리 목록 
+
+    > YAML 라이브러리 설치 : pip install PyYAML
+  
+- 파일 입출력 
+
+    1) [샘플 텍스트 파일 다운로드 링크]()
