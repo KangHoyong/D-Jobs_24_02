@@ -71,15 +71,15 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
 
 - 키보드 마우스 입력 
 
-    >> 키보드 라이브러리 설치 : pip install pynput
+    1) 키보드 라이브러리 설치 : pip install pynput
 
 - 판다스 
     
-   >> 판다스 라이브러리 설치 : pip install pandas
+   1) 판다스 라이브러리 설치 : pip install pandas
 
-## 5. [강의자료-5 링크]()
+## 5. [강의자료-5 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C_5.pdf)
 
   강의 내용 
    
-    - 쓰레드, 메시지 큐 
+    쓰레드, 메시지 큐에 대한 기본적인 이해
    
