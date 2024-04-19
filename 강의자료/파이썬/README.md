@@ -43,10 +43,12 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
         - Matplotlib : pip install matplotlib
         - openCV : pip install opencv-python==4.8.0.74
 
-    샘플 데이터 
-        [샘플 이미지](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%EC%9D%B4%EB%AF%B8%EC%A7%80/cat_image01.png)
 
-        [샘플 영상](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%EC%98%81%EC%83%81/test.mp4)
+샘플 데이터 다운로드 링크 
+
+[샘플 이미지](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%EC%9D%B4%EB%AF%B8%EC%A7%80/cat_image01.png)
+
+[샘플 영상](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%EC%98%81%EC%83%81/test.mp4)
         
 ## 4. [강의자료-4 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C-4.pdf)
 
