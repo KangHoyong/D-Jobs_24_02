@@ -9,6 +9,9 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
         - Python 환경 구축 및 아나콘다 사용법 설명 
         - 파이썬 기본 자료형 소개 
         - 조건문 반복문 구조와 이해 
+
+[아나콘다 환경 세팅 방법 및 파이참 설치](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/README.md)
+
 [Quiz01 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz01.py)
     
 [Quiz02 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz02.py)
@@ -39,6 +42,11 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
     설치 라이브러리 
         - Matplotlib : pip install matplotlib
         - openCV : pip install opencv-python==4.8.0.74
+
+    샘플 데이터 
+        [샘플 이미지](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%EC%9D%B4%EB%AF%B8%EC%A7%80/cat_image01.png)
+
+        [샘플 영상](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%83%98%ED%94%8C%EC%98%81%EC%83%81/test.mp4)
         
 ## 4. [강의자료-4 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C-4.pdf)
 
@@ -54,7 +62,7 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
      https://drive.google.com/file/d/1PpuU4kfV-hv5SxbBrI58H2W-Nftpt5-j/view?usp=drive_link)
 
     설치 라이브러리  
-        - YAML 라이브러리 설치 : pip install PyYAML
+        >> YAML 라이브러리 설치 : pip install PyYAML
     
   
 - 파일 입출력 
@@ -63,8 +71,15 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
 
 - 키보드 마우스 입력 
 
-    키보드 라이브러리 설치 : pip install pynput
+    >> 키보드 라이브러리 설치 : pip install pynput
 
 - 판다스 
     
-    판다스 라이브러리 설치 : pip install pandas
+   >> 판다스 라이브러리 설치 : pip install pandas
+
+## 5. [강의자료-5 링크]()
+
+  강의 내용 
+   
+    - 쓰레드, 메시지 큐 
+   
