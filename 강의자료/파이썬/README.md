@@ -20,6 +20,10 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
        - 예외처리 
        - Numpy, Pickle
 
+    설치 라이브러리 
+       - Numpy : pip install numpy
+       - Pickle : pip install pickle5
+
 [Quiz03 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz03.py)
 
 [Quiz04 정답](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/Quiz%EC%A0%95%EB%8B%B5/Quiz04.py)
@@ -30,9 +34,11 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
     
     강의 내용 
         - Matplotlib 라이브러리 소개 및 실습 
-        > 설치 명령어 pip install matplotlib
         - Open CV 라이브러리 소개 및 실습 
-        > 설치 명령어 pip install opencv-python==4.8.0.74
+
+    설치 라이브러리 
+        - Matplotlib : pip install matplotlib
+        - openCV : pip install opencv-python==4.8.0.74
         
 ## 4. [강의자료-4 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C-4.pdf)
 
@@ -47,9 +53,9 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
      2) [위에 다운로드1번이 안되면 다운로드2번]( 
      https://drive.google.com/file/d/1PpuU4kfV-hv5SxbBrI58H2W-Nftpt5-j/view?usp=drive_link)
 
-    수업에 필요한 라이브러리 목록 
-
-    > YAML 라이브러리 설치 : pip install PyYAML
+    설치 라이브러리  
+        - YAML 라이브러리 설치 : pip install PyYAML
+    
   
 - 파일 입출력 
 
