@@ -85,7 +85,7 @@ D-Jobs 아카데미 2기 파이썬 / 인공지능 강의 자료
    
     쓰레드, 메시지 큐에 대한 기본적인 이해
 
-## 6. [강의자료-6 링크]()
+## 6. [강의자료-6 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%ED%8C%8C%EC%9D%B4%EC%8D%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C_6.pdf)
 
     강의 내용 
 
