@@ -1,3 +1,5 @@
+# 실습 : 간단한 Webcam read and Capture 
+
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton, QLabel, QVBoxLayout, QWidget
 from PySide6.QtCore import Slot, QTimer
