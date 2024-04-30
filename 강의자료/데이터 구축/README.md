@@ -3,7 +3,7 @@ D-Jobs 아카데미 2기 데이터 구축
 
 ## D-Jobs 24 2기 강의자료 
 
-### 1. [강의자료 : 데이터 구축]()
+### 1. [강의자료 : 데이터 구축](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%B6%95/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B5%AC%EC%B6%95_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C.pdf)
 
     강의 내용 
         - 데이터 수집 방법 
