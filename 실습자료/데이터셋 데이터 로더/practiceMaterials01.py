@@ -20,8 +20,12 @@ class CustomDatasetNoCache(Dataset) :
         image_path = self.image_paths[index]
         image = Image.open(image_path).convert("RGB")
         if not is_grayscale(image):
-            folder_name = image_path.split("/")
-            folder_name = folder_name[2]
+            # 리눅스, 맥 기준
+            # folder_name = image_path.split("/")
+            # folder_name = folder_name[2]
+            # 윈도우 기준 
+            folder_name = image_path.split("\\")
+            folder_name = folder_name[1]
             label = self.label_dict[folder_name]
         else:
             print("흑백 이미지 >>", image_path)
@@ -51,8 +55,12 @@ class CustomDatasetCache(Dataset) :
             image = Image.open(image_path).convert("RGB")
 
             if not is_grayscale(image):
-                folder_name = image_path.split("/")
-                folder_name = folder_name[2]
+                # 리눅스, 맥 기준
+                # folder_name = image_path.split("/")
+                # folder_name = folder_name[2]
+                # 윈도우 기준 
+                folder_name = image_path.split("\\")
+                folder_name = folder_name[1]
                 label = self.label_dict[folder_name]
                 self.cache[index] = (image, label)
             else :
@@ -84,6 +92,20 @@ dataloader_with_no_cache = DataLoader(dataset_with_no_cache, batch_size=64, shuf
 # 속도 비교
 if __name__ == "__main__":
 
+    transforms = transforms.Compose([
+        transforms.Resize((224,224)),
+        transforms.ToTensor()
+    ])
+
+    # 캐시 처리
+    dataset_with_cache = CustomDatasetCache(image_paths="./dataset", transform=transforms)
+    dataloader_with_cache = DataLoader(dataset_with_cache, batch_size=64, shuffle=True)
+
+    # 캐시 처리 No
+    dataset_with_no_cache = CustomDatasetNoCache(image_paths="./dataset", transform=transforms)
+    dataloader_with_no_cache = DataLoader(dataset_with_no_cache, batch_size=64, shuffle=True)
+
+    # 속도 비교 
     start_time_1 = time.time()
     for image, label in dataloader_with_cache :
         pass
