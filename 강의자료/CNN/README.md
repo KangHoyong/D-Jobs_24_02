@@ -7,6 +7,10 @@ D-Jobs 아카데미 2기 CNN 교육자료
 
     강의 내용 
      - Basics CNN
+      >> 제한된 볼츠만 머신 실습 
+      >> CNN 전체적인 네트워크 구조 실습 
+      >> 각 에포크에서 합성곱 레이어의 가중치, 완결 연결 레이어의 가중치, 손실 그래프 시각화 
+      >> PyTorch를 활용한 간단한 CNN 모델 구현 : MNIST 데이터셋 활용 
 
 * [제한된 볼츠만 머신 코드](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/CNN/practiceMeterials01.py)
 * [CNN 전체적인 네트워크 구조](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/CNN/practiceMeterials02.py)
