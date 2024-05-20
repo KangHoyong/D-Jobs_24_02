@@ -46,4 +46,4 @@ D-Jobs 아카데미 2기 인공지능 - 인공 신경망 파트
      - 선형 분류 선형 판별 분석 
      - 선형 분류 딥러닝과 선형 분류의 관계 어떤 분야에서 응용 되는가? 
 
-* [Occupancy Estimation Dataset](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/Occupancy_Estimation.csv)
+* [chemicals in wind tunnel Dataset](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/chemicals_in_wind_tunnel.csv)
