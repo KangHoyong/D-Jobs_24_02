@@ -11,3 +11,4 @@ D-Jobs 아카데미 2기 CNN 교육자료
      - Classification 최신 트랜드 소개 
 
 * [LeNet-5 모델 학습 실습 데이터셋 : RSCD 노면 상태 데이터](https://drive.google.com/file/d/1WSGf6L0fI4_ioVSOiJpWCbSoa8SyUCLg/view?usp=sharing)
+* [LeNet-5 모델 ]
