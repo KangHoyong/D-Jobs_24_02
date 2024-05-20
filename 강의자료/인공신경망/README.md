@@ -47,3 +47,11 @@ D-Jobs 아카데미 2기 인공지능 - 인공 신경망 파트
      - 선형 분류 딥러닝과 선형 분류의 관계 어떤 분야에서 응용 되는가? 
 
 * [chemicals in wind tunnel Dataset](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D/chemicals_in_wind_tunnel.csv)
+
+
+## 머신 러닝 구분 정리 참고 자료
+
+아래의 그림1을 통해서 머신 러닝 지도, 비지도, 강화 학습으로 3가지로 구분 지도학습은 회귀 와 분류로 나눠짐 
+
+![스크린샷 2024-05-20 오후 4 19 16](https://github.com/KangHoyong/D-Jobs_24_02/assets/9815703/08aba5fd-7eb5-438e-a421-054bdc0f3600)
+그림 1. 머신 러닝
