@@ -36,7 +36,7 @@ D-Jobs 아카데미 2기 CNN 교육자료
 * [실습코드](https://github.com/KangHoyong/D-Jobs_24_02/tree/main/%EC%8B%A4%EC%8A%B5%EC%9E%90%EB%A3%8C/Classification%20/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C-3/%EC%BD%94%EB%93%9C)
 
 
-## 4. [강의자료-4 링크]()
+## 4. [강의자료-4 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Classification/Classification%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%2004.pdf)
 
     강의 내용 
      - Gradio 실습 
