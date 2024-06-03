@@ -3,26 +3,26 @@ D-Jobs 아카데미 2기 객체 인식 교육
 
 ## D-Jobs 24 2기 강의자료 
 
-### 1. [강의자료-1 링크]()
+### 1. [강의자료-1 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D/%EA%B0%9D%EC%B2%B4%EC%9D%B8%EC%8B%9D%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%2001.pdf)
 
     강의 내용 
      - 객체 인식 소개 
      - 이미지 처리 픽셀 기본 정의 
      - 특징 추출 소개 
 
-### 2. [강의자료-2 링크]()
+### 2. [강의자료-2 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D/%EA%B0%9D%EC%B2%B4%EC%9D%B8%EC%8B%9D%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%2002.pdf)
 
     강의 내용 
      - 특징 디스크립터 소개 
      - 객체 인식 파트 II
 
-### 3. [강의자료-3 링크]()
+### 3. [강의자료-3 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D/%EA%B0%9D%EC%B2%B4%EC%9D%B8%EC%8B%9D%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%2003.pdf)
 
     강의 내용 
      - One Stage YOLO 알고리즘 소개 
      - SDD 알고리즘 소개 
 
-### 4. [강의자료-4 링크]()
+### 4. [YOLOv8 학습 방법 강의 자료 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D/YoloV8_%EC%8B%A4%EC%8A%B5_%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C.pdf)
 
     강의 내용 
      - YOLOv8 학습 소개 
@@ -30,7 +30,7 @@ D-Jobs 아카데미 2기 객체 인식 교육
      - 학습된 모델을 이용한 Inference 방법 소개 
      - 학습한 모델 : Gradio 이용한 GUI 실습 
 
-### 5. [강의자료-5 링크]()
+### 5. [강의자료-5 링크](https://github.com/KangHoyong/D-Jobs_24_02/blob/main/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/%EA%B0%9D%EC%B2%B4%20%EC%9D%B8%EC%8B%9D/%EA%B0%9D%EC%B2%B4%EC%9D%B8%EC%8B%9D%20%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%2004.pdf)
 
     강의 내용 
      - Two Stage Detection 소개  
